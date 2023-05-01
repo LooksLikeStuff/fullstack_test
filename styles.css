@@ -1,0 +1,18 @@
+.test{
+    display: block;
+}
+
+.test.on {
+    display: none;
+}
+
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.first {
+    margin: 100px 0 100px 0 ;
+}
