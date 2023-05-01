@@ -1,2 +1,2 @@
-# fullstack_test
-fullstack_test
+Версии которые я использовал:
+php - 8.1
